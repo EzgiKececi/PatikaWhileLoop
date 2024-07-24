@@ -1,0 +1,14 @@
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\bin\Debug\net8.0\PatikaWhileLoop.exe
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\bin\Debug\net8.0\PatikaWhileLoop.deps.json
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\bin\Debug\net8.0\PatikaWhileLoop.runtimeconfig.json
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\bin\Debug\net8.0\PatikaWhileLoop.dll
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\bin\Debug\net8.0\PatikaWhileLoop.pdb
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.AssemblyInfoInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.AssemblyInfo.cs
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.dll
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\refint\PatikaWhileLoop.dll
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.pdb
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\PatikaWhileLoop.genruntimeconfig.cache
+C:\Users\EZGİ\Source\Repos\PatikaWhileLoop\PatikaWhileLoop\obj\Debug\net8.0\ref\PatikaWhileLoop.dll
