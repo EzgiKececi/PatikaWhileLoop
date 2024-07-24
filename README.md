@@ -1,1 +1,1 @@
-# PatikaWhileLoop
+While döngüsü kullanılarak oluşturulan program
